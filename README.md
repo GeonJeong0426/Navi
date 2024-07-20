@@ -181,7 +181,7 @@ LLM을 활용한 사용자 맞춤형 여행지 추천시스템<br/>
   </tr>
   <tr>
     <td>해결</td>
-    <td>상위 컴포넌트인 APP.js에서 React Hooks을 사용하여 상태관리를 해주고 하위 컴포넌트에 상태를 전달달</td>
+    <td>상위 컴포넌트인 APP.js에서 React Hooks을 사용하여 상태관리를 해주고 하위 컴포넌트에 상태를 전달</td>
   </tr>
 </table><br/><br/><br/><br/>
 
